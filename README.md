@@ -1,10 +1,5 @@
-# My_Notes_App
+# Vue 3 + Vite
 
-# **Creación de una página completa con Vue.js con formulario y conexión a una API.** 
+This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
-  - Instalamos el router para tener navegación por las páginas y rutas; y pinia como gestor de
-    estado global de nuestro proyecto.
-    ** npm install vue-router pinia **
-    
-  - La carpeta store: nos permite gestionar/crear recursos globales como peticiones o cualquier cosa
-    a una API. 
+Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
